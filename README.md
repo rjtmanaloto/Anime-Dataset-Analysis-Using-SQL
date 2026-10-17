@@ -1,4 +1,4 @@
-<h1>Anime Dataset Analysis in SQL</h1>
+<h1>Anime Dataset Analysis Using SQL</h1>
 
 
 <h2>Goal</h2>
